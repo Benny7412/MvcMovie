@@ -364,3 +364,4 @@ C:\Users\PC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\PC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
 c:\Users\PC\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-srdz53kpfw-srdz53kpfw.gz
 c:\Users\PC\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-srdz53kpfw-srdz53kpfw.gz
+c:\Users\PC\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
